@@ -1,11 +1,5 @@
 # yarr
 
-**This is a fork of nkanaev's yarr project.**
-
-I haven't made any changes aside from creating a GitHub action to build docker images.
-
----
-
 **yarr** (yet another rss reader) is a web-based feed aggregator which can be used both
 as a desktop application and a personal self-hosted server.
 
